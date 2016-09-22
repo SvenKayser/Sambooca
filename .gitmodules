@@ -1,0 +1,11 @@
+[submodule "Sambooca-U-Boot-H3"]
+	path = uboot/h3
+	url = https://github.com/SvenKayser/Sambooca-U-Boot-H3.git
+
+[submodule "Sambooca-Kernel-H3"]
+	path = kernel/h3
+	url = https://github.com/SvenKayser/Sambooca-Kernel-H3.git
+
+[submodule "Sambooca-Overlay"]
+	path = overlay
+	url = https://github.com/SvenKayser/Sambooca-Overlay.git
