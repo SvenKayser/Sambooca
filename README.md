@@ -8,8 +8,6 @@ While Sambooca systems basically -are- Gentoo, the things that make Gentoo seem 
 
 Sambooca does not aim to nor has any ambitions to compete with out-of-the-box systems like Armbian. If you are looking for a linux distribution for you xPi that just works - Armbian is it. If you however looking for a way to tailor a highly optimized boot image for your hardware and needs - Sambooca is for you.
 
-##
-
-Supported SoCs
+## Supported SoCs
 
 At first Sambooca aims to provide support for the multitude of Allwinner H3 devices, most notably from the OrangePi series. I also plan to support the Broadcom BCM2836 (RPi2), as well as the 64-bit SoCs Broadcom BCM2837 (RPi3) and Anlogic S905 (Odroid C2 and a couple of cheap TV boxes). But since the build process is modular there is little reason why other SBCs, even x86 ones, shouldn't work.
